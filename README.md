@@ -22,6 +22,3 @@ Here are some ideas to get you started:
   <img align="left" alt="Jkulba's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jkulba&show_icons=true&hide_border=true" />
 
 </details>
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
