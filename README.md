@@ -19,10 +19,11 @@ Here are some ideas to get you started:
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Jkulba's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jkulba&show_icons=true&hide_border=true" />
-
+  [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jkulba&count_private=true&theme=tokyonight&showicons=true)]()
+  <BR />
+  [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jkulba&langs_count=5&theme=tokyonight)]()
 </details>
 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jkulba&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jkulba&langs_count=5&theme=tokyonight)]()
+
+
