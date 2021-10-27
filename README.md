@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Jkulba's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jkulba&show_icons=true&hide_border=true" />
+  <img align="left" alt="Jkulba's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jkulba&show_icons=true&hide_border=true" />
 
 </details>
