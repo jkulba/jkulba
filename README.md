@@ -16,14 +16,12 @@ Here are some ideas to get you started:
 -->
 
 ---
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jkulba&count_private=true&theme=tokyonight&showicons=true)]()
-  <BR />
-  [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jkulba&langs_count=5&theme=tokyonight)]()
-</details>
-
-
-
-
+<table>
+<tbody>
+<tr>
+<td>[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jkulba&count_private=true&theme=tokyonight&showicons=true)]()</td>
+<td>[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jkulba&langs_count=5&theme=tokyonight)]()</td>
+</tr>
+</tbody>
+</table>
