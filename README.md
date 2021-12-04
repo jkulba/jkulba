@@ -1,5 +1,6 @@
 ### Hey there 👋
 
+🔭 I’m currently working on a personal clone of the favorite Pocket bookmark service.  Writing the backend components in .Net 5x.
 <!--
 **jkulba/jkulba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
