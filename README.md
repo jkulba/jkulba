@@ -1,4 +1,4 @@
-## Hey there, I'm James 👋
+## Hey there, I'm Jim 👋
 
 I'm a software engineer passionate about building cloud-native applications and developer tooling. I enjoy working across the full stack with a focus on .NET, Azure, and containerized workloads.
 
